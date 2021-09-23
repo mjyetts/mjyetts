@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mjyetts
 - 👀 I’m interested in butterflies and kittens.
 - 🌱 I’m currently learning Github! Python. Advanced SFMC.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me - mj.yetts@wdmp.co.uk
 
 <!---
